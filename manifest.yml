@@ -1,4 +1,4 @@
----
+bx cf push
 applications:tswel-hotel-reviews
 - name: tswel-hotel-reviews
   instances: 1
