@@ -1,5 +1,5 @@
 ---
-applications:
-- name: xxxxx
+applications:tswel-hotel-reviews
+- name: tswel-hotel-reviews
   instances: 1
   memory: 256M
